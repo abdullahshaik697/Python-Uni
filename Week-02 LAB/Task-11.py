@@ -1,0 +1,6 @@
+name =  input("Enter Customer's name: ")
+age =  input("Enter Customer's age: ")
+phoneNumber =  input("Enter Customer's Phone Number: ")
+print(type(name), name)
+print(type(age), age)
+print(type(phoneNumber), phoneNumber)
